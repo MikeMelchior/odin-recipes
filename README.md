@@ -4,4 +4,4 @@ In this project I will be building a rough website with links to a few recipes. 
 
 
 may 10 / 2022 :
-added recipe page with link from homepage
+added recipe pages with individual links from home page
